@@ -1,0 +1,6 @@
+[submodule "private"]
+	path = private
+	url = git@github.com:fun-dotto/docs-private.git
+[submodule "public"]
+	path = public
+	url = git@github.com:fun-dotto/docs-public.git
